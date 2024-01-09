@@ -1,4 +1,4 @@
-[![MasterHead](https://cdna.artstation.com/p/assets/images/images/036/822/576/original/karina-formanova-cover-final.gif?1618727960)]()
+[![MasterHead](https://cdnb.artstation.com/p/assets/images/images/036/125/405/original/igor-freitas-mesa.gif?1616779562)]()
 
 
 <h1 align="center">Hi, I'm Iorran Lira!</h1>
