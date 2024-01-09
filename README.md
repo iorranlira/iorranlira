@@ -8,10 +8,7 @@
 - I'm currently a Computer Science Student at the Federal University of Campina Grande, since 2022
 
 
-
-<p align="right">
-<img widtgh="300em" scr="" alt="iorranlira's stats"/>
-</p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=iorranlira&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="iorranlira" /></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
