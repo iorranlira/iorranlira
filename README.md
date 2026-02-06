@@ -5,9 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iorranlira&color=red" alt="Profile views" /> </p>
 
-- I'm currently a Computer Science Student at the Federal University of Campina Grande, since 2022
-- Reach me in iorranlira@gmail.com
-
+- I'm currently a Computer Science Student at the Federal University of Campina Grande, since 2022.
+- Interested in Systems Administration (SysAdmin), Backend Development, Databases and Testing.
+- Learning more about Artificial Intelligence, web and Mobile Development,DevOps and Cybersecurity.
+  
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></p>
 
@@ -15,5 +16,4 @@
 <a href="https://www.instagram.com/iorran_lira/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stringvazio" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/iorran-lira/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stringvazio" height="30" width="40" /></a>
 
-<p align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iorranlira&layout=compact&theme=tokyonight" alt="Top Langs"> </p>
  
