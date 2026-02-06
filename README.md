@@ -7,7 +7,7 @@
 
 - I'm currently a Computer Science Student at the Federal University of Campina Grande, since 2022.
 - Interested in Systems Administration (SysAdmin), Backend Development, Databases and Testing.
-- Learning more about Artificial Intelligence, Web and Mobile Development, DevOps and Cybersecurity.
+- Learning more about Artificial Intelligence (LLM's & Machine Learning), Web and Mobile Development, DevOps and Cybersecurity.
   
 <h3 align="left">Languages and Tools:</h3>
   <!-- Languages -->
