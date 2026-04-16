@@ -16,6 +16,10 @@
 
 [![Learning](https://skillicons.dev/icons?i=tensorflow,pytorch,html,css,js,react,django,kotlin)](https://skillicons.dev)
 
+<h3 align="left">Most Used Languages:</h3>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iorranlira&layout=compact&theme=dark)
+
 <h3 align="left">Connect with me:</h3>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/iorran_lira/)
