@@ -3,8 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iorranlira&color=red" alt="Profile views" /> </p>
 
 - I'm currently a Computer Science Student at the Federal University of Campina Grande, since 2022.
-- Interested in Backend Development, Linux Systems Administration (SysAdmin), Databases and Testing.
-- Learning more about Artificial Intelligence (LLM's & Machine Learning), Web and Mobile Development, DevOps and Cybersecurity.
+- Interested in Backend Development, Linux Systems Administration, Databases and Testing.
+- Learning more about Artificial Intelligence (LLM's & Machine Learning), DevOps, FrontEnd and Mobile Development.
 
 <h3 align="left">Languages and Tools:</h3>
 
