@@ -12,7 +12,7 @@
 
 <h3 align="left">Currently Learning & Exploring:</h3>
 
-[![Learning](https://skillicons.dev/icons?i=tensorflow,pytorch,html,css,js,react,django,kotlin)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=tensorflow,pytorch,html,css,js,react)](https://skillicons.dev)
 
 <h3 align="left">Connect with me:</h3>
 
