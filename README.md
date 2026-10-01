@@ -1,6 +1,5 @@
 <h1 align="center">Hello!</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iorranlira&color=red" alt="Profile views" /> </p>
 
 - I'm currently a Computer Science Student at the Federal University of Campina Grande, since 2022.
 - Interested in Backend Development, Linux Systems Administration, Databases and Testing.
@@ -8,7 +7,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,go,spring,git,mysql,linux,ubuntu,bash,kubernetes,docker,unity,cs)](https://skillicons.dev)
+[![My Stack](https://skillicons.dev/icons?i=java,python,go,spring,git,mysql,linux,ubuntu,bash,kubernetes,docker,unity,cs)](https://skillicons.dev)
 
 <h3 align="left">Currently Learning & Exploring:</h3>
 
